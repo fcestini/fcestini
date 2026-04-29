@@ -1,6 +1,8 @@
 <div align="center">
 
-# Fábio Cestini
+![Banner](banner_github.svg)
+
+# Fabio Cestini
 
 ### Arquiteto de Soluções & Automação · Fundador da GP2Tech
 
@@ -102,4 +104,23 @@ A **GP2Tech** é uma consultoria tecnológica especializada em **automação de 
 **Soluções que já desenvolvemos e operamos em produção:**
 
 - ✅ Chatbot inteligente multicanal (WhatsApp + Web)
-- ✅ CRM customizado com plugins exclusivos (1
+- ✅ CRM customizado com plugins exclusivos (13+ plugins proprietários)
+- ✅ Plataforma SaaS white-label para gestão comercial e atendimento
+- ✅ Integração NFS-e com prefeituras (padrão ABRASF 2.03)
+- ✅ Gateway de pagamento PIX + cartão integrado ao CRM
+- ✅ Sistema de agendamento online integrado ao calendário
+- ✅ Dashboards e relatórios em tempo real
+- ✅ Infraestrutura monitorada 24/7 com alertas automáticos
+
+📍 Itaquaquecetuba, SP — Atendimento remoto em todo o Brasil
+
+---
+
+<div align="center">
+
+**Vamos conversar sobre o seu próximo projeto?**
+
+[![Solicitar Orçamento](https://img.shields.io/badge/Solicitar_Orçamento-34D399?style=for-the-badge&logo=google-chrome&logoColor=0D2137)](https://gp2tech.com.br/orcamento/)
+[![WhatsApp](https://img.shields.io/badge/Falar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511994056667?text=Olá!%20Vim%20pelo%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20soluções%20da%20GP2Tech.)
+
+</div>
