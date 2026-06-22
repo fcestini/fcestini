@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](banner_github.gif?v=2)
+![Banner](banner_github.gif?v=3)
 
 # Fabio Cestini
 
