@@ -25,6 +25,47 @@ Atuo como **Arquiteto de Soluções** — minha função é entender profundamen
 
 ---
 
+## GP2Suite — Plataforma SaaS White-Label
+
+O **GP2Suite** é minha principal criação: uma plataforma SaaS modular desenvolvida do zero, multi-instância, com frontend em React/TypeScript e backend em PHP. Cada cliente recebe sua própria instância isolada com os módulos do plano contratado (Básico / Pro / Avançado).
+
+**14 módulos em produção:**
+
+| Módulo | Plano | Descrição |
+|--------|-------|-----------|
+| 🗂️ **CRM & Clientes** | Todos | Gestão completa de contatos, pipeline de vendas, categorias customizáveis e campos extras |
+| 🤖 **Bot WhatsApp** | Básico | Respostas automáticas via WhatsApp com fluxos configuráveis |
+| 🤖 **Bot com IA** | Pro | Bot com GPT integrado para respostas inteligentes e contextuais |
+| 💬 **Chat do Site** | Básico | Widget de chat para o site do cliente integrado ao mesmo painel |
+| ✅ **Tarefas** | Básico | Gestão de tarefas vinculadas aos atendimentos e contatos |
+| 📝 **Notas** | Básico | Anotações por contato com histórico e data |
+| 📄 **Orçamentos & Documentos** | Básico | Geração de orçamentos e documentos com papel timbrado e download seguro |
+| 💰 **Financeiro** | Pro | Dashboard com KPIs, metas, medidor de ritmo e controle de receitas/despesas |
+| 💳 **Cobrança** | Pro | Cobranças automáticas via PIX e boleto integradas diretamente à API do Asaas |
+| 📅 **Agendamento** | Pro | Agendamento online com link público integrado ao Cal.com |
+| 📢 **Prospecção** | Avançado | Gestão de leads, funil de captação, raio-X de prospects com IA e rastreamento de origem |
+| 📆 **Google Agenda** | Avançado | Sincronização bidirecional com Google Calendar |
+| 🚦 **Tráfego (GP2Traffic)** | Avançado | Gestão de tráfego pago (Google Ads API): palavras-chave, análise SERP, concorrência via DataForSEO, diagnóstico por IA e monitoramento 24/7 |
+| 🎨 **GP2Criativos** | Avançado | Geração de artes para redes sociais com IA — imagem, legenda e hashtags |
+| 🎫 **Chamados (Help Desk)** | Avançado | Central de suporte com e-mail bidirecional (SMTP/IMAP), SLA, templates e auto-fechamento |
+
+**Em desenvolvimento:**
+
+| Módulo | Descrição |
+|--------|-----------|
+| 📣 **Disparos em Massa** | Envio de mensagens para listas de contatos via WhatsApp |
+| 📊 **Relatórios Avançados** | TMA, volume de atendimentos e satisfação detalhados |
+| 🔀 **Múltiplos Canais** | WhatsApp + Chat + Instagram unificados |
+| ⭐ **Pesquisa NPS** | Satisfação automática pós-atendimento |
+
+**Vertical exclusiva:**
+
+| Módulo | Descrição |
+|--------|-----------|
+| 🏥 **Gestão Saúde** | Prontuário eletrônico completo: anamnese, avaliações por especialidade (8 áreas), escalas clínicas validadas (PHQ-9, GAD-7, PCL-5, DASS-21 e outras), medicamentos via base ANVISA, CID-10, plano alimentar (TACO), vacinas (PNI) e geração de documentos timbrados |
+
+---
+
 ## O que eu construo
 
 **🔧 Automação de Processos**
@@ -33,14 +74,23 @@ Fluxos inteligentes com N8N que eliminam trabalho manual: notificações, cobran
 **💬 Ecossistema WhatsApp**
 Chatbots profissionais, atendimento centralizado via Chatwoot, disparos automáticos e gestão de conversas com Evolution API.
 
+**🔌 Plugins WordPress & WooCommerce**
+Desenvolvimento de plugins customizados do zero: integrações com APIs externas (pagamentos, fiscais, CRMs), extensões de WooCommerce, automações internas e funcionalidades exclusivas que não existem no mercado. Mais de 30 plugins proprietários desenvolvidos e em uso em produção.
+
 **🖥️ Plataformas SaaS & CRM**
-Desenvolvimento e customização profunda de sistemas de gestão (CRM), plugins especializados e plataformas white-label do zero.
+Desenvolvimento e customização profunda de sistemas de gestão, plugins especializados e plataformas white-label multi-instância com módulos verticais por segmento.
+
+**💳 Cobranças & Pagamentos**
+Integração direta com a API do Asaas: geração de cobranças PIX e cartão, webhook de confirmação, gateway embutido no CRM e no SaaS.
 
 **📄 Integrações Fiscais**
 Emissão de NFS-e integrada ao CRM, com comunicação direta com prefeituras via API (padrão ABRASF 2.03).
 
+**🤖 Inteligência Artificial Aplicada**
+IA integrada nos produtos: análise de domínios (raio-X de prospects), diagnósticos de campanhas de tráfego, geração de criativos, descrições farmacológicas, sugestões proativas e chatbots conversacionais.
+
 **🐳 Infraestrutura & DevOps**
-Ambientes Linux com Docker/Coolify, VPS gerenciados, monitoramento proativo, backups automatizados e segurança em múltiplas camadas.
+Ambientes Linux com Docker/Coolify, LiteSpeed/CyberPanel, VPS gerenciados, monitoramento proativo, backups automatizados e segurança em múltiplas camadas.
 
 **🌐 Desenvolvimento Web**
 Sites, landing pages e sistemas web com WordPress, WooCommerce, React e PHP — do design à implementação e otimização.
@@ -49,36 +99,48 @@ Sites, landing pages e sistemas web com WordPress, WooCommerce, React e PHP — 
 
 ## Stack Tecnológico
 
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D2137?style=flat-square&logo=react&logoColor=34D399)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D2137?style=flat-square&logo=typescript&logoColor=34D399)
+![Vite](https://img.shields.io/badge/Vite-0D2137?style=flat-square&logo=vite&logoColor=34D399)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D2137?style=flat-square&logo=tailwindcss&logoColor=34D399)
+![WordPress](https://img.shields.io/badge/WordPress-0D2137?style=flat-square&logo=wordpress&logoColor=34D399)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-0D2137?style=flat-square&logo=woocommerce&logoColor=34D399)
+
+**Backend & APIs**
+
+![PHP](https://img.shields.io/badge/PHP-0D2137?style=flat-square&logo=php&logoColor=34D399)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-0D2137?style=flat-square&logo=codeigniter&logoColor=34D399)
+![Python](https://img.shields.io/badge/Python-0D2137?style=flat-square&logo=python&logoColor=34D399)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D2137?style=flat-square&logo=fastapi&logoColor=34D399)
+![MySQL](https://img.shields.io/badge/MySQL%2FMariaDB-0D2137?style=flat-square&logo=mariadb&logoColor=34D399)
+![REST API](https://img.shields.io/badge/REST_APIs-0D2137?style=flat-square&logo=postman&logoColor=34D399)
+
 **Automação & Integrações**
 
 ![N8N](https://img.shields.io/badge/N8N-0D2137?style=flat-square&logo=n8n&logoColor=34D399)
 ![Evolution API](https://img.shields.io/badge/Evolution_API-0D2137?style=flat-square&logo=whatsapp&logoColor=34D399)
 ![Chatwoot](https://img.shields.io/badge/Chatwoot-0D2137?style=flat-square&logo=chatwoot&logoColor=34D399)
-![Webhooks](https://img.shields.io/badge/Webhooks-0D2137?style=flat-square&logo=zapier&logoColor=34D399)
+![Cal.com](https://img.shields.io/badge/Cal.com-0D2137?style=flat-square&logo=cal.com&logoColor=34D399)
+![Asaas](https://img.shields.io/badge/Asaas-0D2137?style=flat-square&logo=stripe&logoColor=34D399)
+![Google Ads](https://img.shields.io/badge/Google_Ads_API-0D2137?style=flat-square&logo=googleads&logoColor=34D399)
+![Zoho](https://img.shields.io/badge/Zoho_Mail-0D2137?style=flat-square&logo=zoho&logoColor=34D399)
 
-**Backend & APIs**
+**Inteligência Artificial**
 
-![PHP](https://img.shields.io/badge/PHP-0D2137?style=flat-square&logo=php&logoColor=34D399)
-![Python](https://img.shields.io/badge/Python-0D2137?style=flat-square&logo=python&logoColor=34D399)
-![MySQL](https://img.shields.io/badge/MySQL-0D2137?style=flat-square&logo=mysql&logoColor=34D399)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D2137?style=flat-square&logo=fastapi&logoColor=34D399)
-![REST API](https://img.shields.io/badge/REST_APIs-0D2137?style=flat-square&logo=postman&logoColor=34D399)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0D2137?style=flat-square&logo=react&logoColor=34D399)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D2137?style=flat-square&logo=typescript&logoColor=34D399)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D2137?style=flat-square&logo=tailwindcss&logoColor=34D399)
-![WordPress](https://img.shields.io/badge/WordPress-0D2137?style=flat-square&logo=wordpress&logoColor=34D399)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-0D2137?style=flat-square&logo=woocommerce&logoColor=34D399)
+![Groq](https://img.shields.io/badge/Groq_(LLaMA_3.3)-0D2137?style=flat-square&logo=meta&logoColor=34D399)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-0D2137?style=flat-square&logo=anthropic&logoColor=34D399)
+![DataForSEO](https://img.shields.io/badge/DataForSEO-0D2137?style=flat-square&logo=semrush&logoColor=34D399)
 
 **Infraestrutura & DevOps**
 
-![Linux](https://img.shields.io/badge/Linux-0D2137?style=flat-square&logo=linux&logoColor=34D399)
+![Linux](https://img.shields.io/badge/Linux_(AlmaLinux%2FUbuntu)-0D2137?style=flat-square&logo=linux&logoColor=34D399)
 ![Docker](https://img.shields.io/badge/Docker-0D2137?style=flat-square&logo=docker&logoColor=34D399)
 ![Coolify](https://img.shields.io/badge/Coolify-0D2137?style=flat-square&logo=coolify&logoColor=34D399)
+![LiteSpeed](https://img.shields.io/badge/LiteSpeed-0D2137?style=flat-square&logo=litespeed&logoColor=34D399)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0D2137?style=flat-square&logo=cloudflare&logoColor=34D399)
-![VPS](https://img.shields.io/badge/VPS_Management-0D2137?style=flat-square&logo=linode&logoColor=34D399)
+![Tailscale](https://img.shields.io/badge/Tailscale-0D2137?style=flat-square&logo=tailscale&logoColor=34D399)
 ![Git](https://img.shields.io/badge/Git-0D2137?style=flat-square&logo=git&logoColor=34D399)
 
 ---
@@ -103,13 +165,19 @@ A **GP2Tech** é uma consultoria tecnológica especializada em **automação de 
 
 **Soluções que já desenvolvemos e operamos em produção:**
 
-- ✅ Chatbot inteligente multicanal (WhatsApp + Web)
-- ✅ CRM customizado com plugins exclusivos (13+ plugins proprietários)
-- ✅ Plataforma SaaS white-label para gestão comercial e atendimento
+- ✅ 30+ plugins proprietários para WordPress, WooCommerce e CRM customizado
+- ✅ Plugins WordPress sob medida: integrações com APIs, extensões WooCommerce e automações exclusivas
+- ✅ Plataforma SaaS white-label modular multi-instância (GP2Suite)
+- ✅ Atendimentos multicanais (WhatsApp + Web) com chatbot inteligente
+- ✅ Módulo de gestão de tráfego pago (Google Ads) com IA e monitoramento 24/7
+- ✅ Módulo de prontuário eletrônico para área de saúde
+- ✅ Módulo de helpdesk e chamados com e-mail bidirecional
+- ✅ Módulo de geração de criativos para redes sociais com IA (GP2Criativos)
+- ✅ Sistema de cobranças integrado diretamente à API do banco (PIX + cartão)
+- ✅ Agendamentos automáticos integrados ao calendário
+- ✅ Funil de prospecção e conversão de leads
+- ✅ Dashboards financeiros e relatórios em tempo real
 - ✅ Integração NFS-e com prefeituras (padrão ABRASF 2.03)
-- ✅ Gateway de pagamento PIX + cartão integrado ao CRM
-- ✅ Sistema de agendamento online integrado ao calendário
-- ✅ Dashboards e relatórios em tempo real
 - ✅ Infraestrutura monitorada 24/7 com alertas automáticos
 
 📍 Itaquaquecetuba, SP — Atendimento remoto em todo o Brasil
