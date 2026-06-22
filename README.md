@@ -6,10 +6,10 @@
 
 ### Arquiteto de Soluções & Automação · Fundador da GP2Tech
 
-[![Website](https://img.shields.io/badge/gp2tech.com.br-0D2137?style=for-the-badge&logo=google-chrome&logoColor=34D399)](https://gp2tech.com.br)
-[![Email](https://img.shields.io/badge/atendimento@gp2tech.com.br-0D2137?style=for-the-badge&logo=gmail&logoColor=34D399)](mailto:atendimento@gp2tech.com.br)
-[![WhatsApp](https://img.shields.io/badge/11_99405--6667-0D2137?style=for-the-badge&logo=whatsapp&logoColor=34D399)](https://wa.me/5511994056667)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2137?style=for-the-badge&logo=linkedin&logoColor=34D399)](https://linkedin.com/in/fabiocestini)
+[![Website](https://img.shields.io/badge/gp2tech.com.br-0D2137?style=for-the-badge&logo=google-chrome&logoColor=38BDF8)](https://gp2tech.com.br)
+[![Email](https://img.shields.io/badge/atendimento@gp2tech.com.br-0D2137?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:atendimento@gp2tech.com.br)
+[![WhatsApp](https://img.shields.io/badge/11_99405--6667-0D2137?style=for-the-badge&logo=whatsapp&logoColor=38BDF8)](https://wa.me/5511994056667)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D2137?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://linkedin.com/in/fabiocestini)
 
 </div>
 
@@ -101,47 +101,47 @@ Sites, landing pages e sistemas web com WordPress, WooCommerce, React e PHP — 
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0D2137?style=flat-square&logo=react&logoColor=34D399)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D2137?style=flat-square&logo=typescript&logoColor=34D399)
-![Vite](https://img.shields.io/badge/Vite-0D2137?style=flat-square&logo=vite&logoColor=34D399)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D2137?style=flat-square&logo=tailwindcss&logoColor=34D399)
-![WordPress](https://img.shields.io/badge/WordPress-0D2137?style=flat-square&logo=wordpress&logoColor=34D399)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-0D2137?style=flat-square&logo=woocommerce&logoColor=34D399)
+![React](https://img.shields.io/badge/React-0D2137?style=flat-square&logo=react&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D2137?style=flat-square&logo=typescript&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0D2137?style=flat-square&logo=vite&logoColor=38BDF8)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D2137?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![WordPress](https://img.shields.io/badge/WordPress-0D2137?style=flat-square&logo=wordpress&logoColor=38BDF8)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-0D2137?style=flat-square&logo=woocommerce&logoColor=38BDF8)
 
 **Backend & APIs**
 
-![PHP](https://img.shields.io/badge/PHP-0D2137?style=flat-square&logo=php&logoColor=34D399)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-0D2137?style=flat-square&logo=codeigniter&logoColor=34D399)
-![Python](https://img.shields.io/badge/Python-0D2137?style=flat-square&logo=python&logoColor=34D399)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D2137?style=flat-square&logo=fastapi&logoColor=34D399)
-![MySQL](https://img.shields.io/badge/MySQL%2FMariaDB-0D2137?style=flat-square&logo=mariadb&logoColor=34D399)
-![REST API](https://img.shields.io/badge/REST_APIs-0D2137?style=flat-square&logo=postman&logoColor=34D399)
+![PHP](https://img.shields.io/badge/PHP-0D2137?style=flat-square&logo=php&logoColor=38BDF8)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-0D2137?style=flat-square&logo=codeigniter&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0D2137?style=flat-square&logo=python&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D2137?style=flat-square&logo=fastapi&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL%2FMariaDB-0D2137?style=flat-square&logo=mariadb&logoColor=38BDF8)
+![REST API](https://img.shields.io/badge/REST_APIs-0D2137?style=flat-square&logo=postman&logoColor=38BDF8)
 
 **Automação & Integrações**
 
-![N8N](https://img.shields.io/badge/N8N-0D2137?style=flat-square&logo=n8n&logoColor=34D399)
-![Evolution API](https://img.shields.io/badge/Evolution_API-0D2137?style=flat-square&logo=whatsapp&logoColor=34D399)
-![Chatwoot](https://img.shields.io/badge/Chatwoot-0D2137?style=flat-square&logo=chatwoot&logoColor=34D399)
-![Cal.com](https://img.shields.io/badge/Cal.com-0D2137?style=flat-square&logo=cal.com&logoColor=34D399)
-![Asaas](https://img.shields.io/badge/Asaas-0D2137?style=flat-square&logo=stripe&logoColor=34D399)
-![Google Ads](https://img.shields.io/badge/Google_Ads_API-0D2137?style=flat-square&logo=googleads&logoColor=34D399)
-![Zoho](https://img.shields.io/badge/Zoho_Mail-0D2137?style=flat-square&logo=zoho&logoColor=34D399)
+![N8N](https://img.shields.io/badge/N8N-0D2137?style=flat-square&logo=n8n&logoColor=38BDF8)
+![Evolution API](https://img.shields.io/badge/Evolution_API-0D2137?style=flat-square&logo=whatsapp&logoColor=38BDF8)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-0D2137?style=flat-square&logo=chatwoot&logoColor=38BDF8)
+![Cal.com](https://img.shields.io/badge/Cal.com-0D2137?style=flat-square&logo=cal.com&logoColor=38BDF8)
+![Asaas](https://img.shields.io/badge/Asaas-0D2137?style=flat-square&logo=stripe&logoColor=38BDF8)
+![Google Ads](https://img.shields.io/badge/Google_Ads_API-0D2137?style=flat-square&logo=googleads&logoColor=38BDF8)
+![Zoho](https://img.shields.io/badge/Zoho_Mail-0D2137?style=flat-square&logo=zoho&logoColor=38BDF8)
 
 **Inteligência Artificial**
 
-![Groq](https://img.shields.io/badge/Groq_(LLaMA_3.3)-0D2137?style=flat-square&logo=meta&logoColor=34D399)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-0D2137?style=flat-square&logo=anthropic&logoColor=34D399)
-![DataForSEO](https://img.shields.io/badge/DataForSEO-0D2137?style=flat-square&logo=semrush&logoColor=34D399)
+![Groq](https://img.shields.io/badge/Groq_(LLaMA_3.3)-0D2137?style=flat-square&logo=meta&logoColor=38BDF8)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-0D2137?style=flat-square&logo=anthropic&logoColor=38BDF8)
+![DataForSEO](https://img.shields.io/badge/DataForSEO-0D2137?style=flat-square&logo=semrush&logoColor=38BDF8)
 
 **Infraestrutura & DevOps**
 
-![Linux](https://img.shields.io/badge/Linux_(AlmaLinux%2FUbuntu)-0D2137?style=flat-square&logo=linux&logoColor=34D399)
-![Docker](https://img.shields.io/badge/Docker-0D2137?style=flat-square&logo=docker&logoColor=34D399)
-![Coolify](https://img.shields.io/badge/Coolify-0D2137?style=flat-square&logo=coolify&logoColor=34D399)
-![LiteSpeed](https://img.shields.io/badge/LiteSpeed-0D2137?style=flat-square&logo=litespeed&logoColor=34D399)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0D2137?style=flat-square&logo=cloudflare&logoColor=34D399)
-![Tailscale](https://img.shields.io/badge/Tailscale-0D2137?style=flat-square&logo=tailscale&logoColor=34D399)
-![Git](https://img.shields.io/badge/Git-0D2137?style=flat-square&logo=git&logoColor=34D399)
+![Linux](https://img.shields.io/badge/Linux_(AlmaLinux%2FUbuntu)-0D2137?style=flat-square&logo=linux&logoColor=38BDF8)
+![Docker](https://img.shields.io/badge/Docker-0D2137?style=flat-square&logo=docker&logoColor=38BDF8)
+![Coolify](https://img.shields.io/badge/Coolify-0D2137?style=flat-square&logo=coolify&logoColor=38BDF8)
+![LiteSpeed](https://img.shields.io/badge/LiteSpeed-0D2137?style=flat-square&logo=litespeed&logoColor=38BDF8)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0D2137?style=flat-square&logo=cloudflare&logoColor=38BDF8)
+![Tailscale](https://img.shields.io/badge/Tailscale-0D2137?style=flat-square&logo=tailscale&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0D2137?style=flat-square&logo=git&logoColor=38BDF8)
 
 ---
 
@@ -188,7 +188,7 @@ A **GP2Tech** é uma consultoria tecnológica especializada em **automação de 
 
 **Vamos conversar sobre o seu próximo projeto?**
 
-[![Solicitar Orçamento](https://img.shields.io/badge/Solicitar_Orçamento-34D399?style=for-the-badge&logo=google-chrome&logoColor=0D2137)](https://gp2tech.com.br/orcamento/)
+[![Solicitar Orçamento](https://img.shields.io/badge/Solicitar_Orçamento-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF)](https://gp2tech.com.br/orcamento/)
 [![WhatsApp](https://img.shields.io/badge/Falar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511994056667?text=Olá!%20Vim%20pelo%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20as%20soluções%20da%20GP2Tech.)
 
 </div>
